@@ -97,7 +97,7 @@ function Hero() {
                   className="relative z-10 inline-block pt-11 lg:pt-0 mt-6"
                 >
                   <img
-                    src="public/main.png"
+                    src="/main.png"
                     alt="hero"
                     className="max-w-full lg:ml-auto rounded-l-[20%]"
                   />
