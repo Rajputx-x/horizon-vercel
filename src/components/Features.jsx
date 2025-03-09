@@ -106,7 +106,7 @@ const Features = () => {
                   <div>
                     <div aria-hidden="true" className="mt-10 lg:mt-0">
                       <img
-                        src="/public/card4.webp"
+                        src="/card4.webp"
                         alt="image1"
                         className="taos:translate-x-[200px] taos:opacity-0 hover:-translate-y-2 transition ease-in-out duration-300 hover:drop-shadow-xl mx-auto rounded-lg shadow-lg dark:bg-gray-500"
                       />
@@ -187,7 +187,7 @@ const Features = () => {
                     </div>
                     <div className="mt-10 lg:mt-0 lg:col-start-1 lg:row-start-1">
                       <img
-                        src="/public/card7.webp"
+                        src="/card7.webp"
                         alt="image2"
                         className="taos:translate-x-[200px] taos:opacity-0 hover:-translate-y-2 transition ease-in-out duration-300 hover:drop-shadow-xl mx-auto rounded-lg shadow-lg dark:bg-gray-500"
                       />
@@ -333,7 +333,7 @@ const Features = () => {
                       className="mt-10 lg:mt-0"
                     >
                       <img
-                        src="public/card4.webp"
+                        src="/card4.webp"
                         alt="image1"
                         className="taos:translate-x-[200px] taos:opacity-0 hover:-translate-y-2 transition ease-in-out duration-300 hover:drop-shadow-xl mx-auto rounded-lg shadow-lg dark:bg-gray-500"
                       />
@@ -464,7 +464,7 @@ const Features = () => {
                       className="mt-10 lg:mt-0 lg:col-start-1 lg:row-start-1"
                     >
                       <img
-                        src="/public/card7.webp"
+                        src="/card7.webp"
                         alt="image2"
                         className="taos:translate-x-[200px] taos:opacity-0 hover:-translate-y-2 transition ease-in-out duration-300 hover:drop-shadow-xl mx-auto rounded-lg shadow-lg dark:bg-gray-500"
                       />
